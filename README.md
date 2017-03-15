@@ -6,5 +6,5 @@ Check out the project page [here](http://guarrana.github.io/html5/index.html) fo
 
 # Instructions
 
-Use the launchpads to jump from platform to platform through space, while finding weapons, avoiding obstacles and fighting enemies.
+Use the launchpads to jump from platform to platform through space, while finding weapons, avoiding obstacles and fighting enemies, to ultimately get to the ending portal.
 
