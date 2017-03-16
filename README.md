@@ -2,7 +2,7 @@
 
 A first person shooter/platformer coded in C# using the Unity 3D engine/framework. Textures and AI Models were created in Photoshop and Blender, and all music and sounds are original and were recorded in Ableton Live using live instruments and [Bfxr](http://www.bfxr.net/).
 
-Check out the project [here](http://namlani.me) for a demo video and to try the game itself!
+Check out the project [here](http://namlani.me) for a demo video and to try the game itself.
 
 # Instructions
 
