@@ -4,7 +4,7 @@ A first person shooter/platformer coded in C# using Unity 3D. Textures and model
 
 Check out the project [here](http://namlani.me) for a demo video and to try the game itself.
 
-# Instructions
+# Synopsis
 
 Use the launchpads to jump from platform to platform through space (while finding weapons, avoiding obstacles, and fighting enemies) to ultimately get to the portal to the next zone.
 
